@@ -4,6 +4,8 @@
 
 > This project implements the Ruby on Rails back-end
 
+## React Front-end App
+https://github.com/NeckerFree/hello-react-front-end/pull/1
 
 ## Built With
 
